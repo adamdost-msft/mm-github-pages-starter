@@ -1,5 +1,5 @@
 ---
-title: "Write-Output("Hello World")"
+title: "Write-Output($HelloWorld")"
 date: 2021-11-29T18:23:30-04:00
 categories:
   - blog
