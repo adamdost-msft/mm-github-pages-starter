@@ -21,6 +21,7 @@ twitter_username: alexdclark93
 github_username: alexdclark
 #minimal_mistakes_skin: default
 search: false
+theme: jekyll-theme-chirpy
 
 # Build settings
 markdown: kramdown
