@@ -24,7 +24,8 @@ search: false
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+#remote_theme: mmistakes/minimal-mistakes
+remote_theme: cotes2020/jekyll-theme-chirpy
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -55,7 +56,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-remote_theme: cotes2020/jekyll-theme-chirpy
+
 
 author:
   name   : "Alex Clark"
@@ -104,3 +105,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
