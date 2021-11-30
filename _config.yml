@@ -55,6 +55,8 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+remote_theme: cotes2020/jekyll-theme-chirpy
+
 author:
   name   : "Alex Clark"
   avatar : "/assets/images/pic.jpg"
