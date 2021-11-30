@@ -16,9 +16,7 @@
 title: Alex Clark - Cloud Engineer
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Automated Tester turned Cloud Engineer specializing in automating the boring stuff.
 twitter_username: alexdclark93
 github_username: alexdclark
 minimal_mistakes_skin: default
@@ -60,7 +58,7 @@ plugins:
 author:
   name   : "Alex Clark"
   avatar : "/assets/images/pic.jpg"
-  bio    : "Engineering the Cloud"
+  bio    : "Automating the Cloud"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
