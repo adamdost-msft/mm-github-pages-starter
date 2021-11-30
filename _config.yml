@@ -19,8 +19,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Automated Tester turned Cloud Engineer specializing in automating the boring stuff.
 twitter_username: alexdclark93
 github_username: alexdclark
-minimal_mistakes_skin: default
-search: false
+#minimal_mistakes_skin: default
+theme: jekyll-theme-chirpy
+search: false 
 
 # Build settings
 markdown: kramdown
