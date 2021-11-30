@@ -19,14 +19,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   Automated Tester turned Cloud Engineer specializing in automating the boring stuff.
 twitter_username: alexdclark93
 github_username: alexdclark
-#minimal_mistakes_skin: default
+minimal_mistakes_skin: default
 search: false
-theme: jekyll-theme-chirpy
+#theme: jekyll-theme-chirpy
 
 # Build settings
 markdown: kramdown
-#remote_theme: mmistakes/minimal-mistakes
-remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: mmistakes/minimal-mistakes
+#remote_theme: cotes2020/jekyll-theme-chirpy
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
