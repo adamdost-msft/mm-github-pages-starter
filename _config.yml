@@ -22,6 +22,7 @@ github_username: alexdclark
 minimal_mistakes_skin: default
 search: false
 #theme: jekyll-theme-chirpy
+google_analytics: UA-112777615-2
 
 # Build settings
 markdown: kramdown
