@@ -17,7 +17,7 @@ You will need a few things before we get started:
 - An Azure Automation Account with a Run As Connection created
 - An Azure Virtual Machine you want to register as a Hybrid Worker that is registered with Log Analytics
 
-# Gathering the required Information
+# Gathering the required Information for setting up Hybrid Worker
 
 Lets start by going to your Azure Automation Account you will be using. You will need to save a few pieces of information for later.
 
